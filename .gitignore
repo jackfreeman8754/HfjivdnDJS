@@ -6,7 +6,6 @@
 
 *.vcxproj
 *.sln
-*.filters
 .vs
 enc_temp_folder/
 *.suo
@@ -24,12 +23,10 @@ enc_temp_folder/
 *.idb
 *.vcxproj.filters
 *.pdb
-*.recipe
 *.iobj
 *.ipdb
 *.res
 *.aps
-UpgradeLog.htm
 generated_code_*
 *.dll
 *.exe
